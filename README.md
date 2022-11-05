@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Hibernate**
 
-- 💬 Ask me about **Java, pHp, JavaScript, Html, Css, Mysql**
+- 💬 Ask me about **Java, Python, Django, Django Rest Framework, Docker, pHp, JavaScript, Html, Css, Mysql**
 
-- 📫 How to reach me **sagarsingh802183@gmail.com**
+- 📫 How to reach me **sagarsingh@grampower.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
