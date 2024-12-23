@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java, Python, Django, Django Rest Framework, Docker, pHp, JavaScript, Html, Css, Mysql**
 
-- 📫 How to reach me **sagarsingh@grampower.com**
+- 📫 How to reach me **sagarsingh@polarisgrids.com**
 
 
 <h3 align="left">Connect with me:</h3>
